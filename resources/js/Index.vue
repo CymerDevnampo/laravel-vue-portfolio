@@ -1,3 +1,15 @@
+<template>
+  <App>
+    <Home />
+    <About />
+    <Skills />
+    <Services />
+    <Work />
+    <Testimonials />
+    <Contact />
+  </App>
+</template>
+
 <script>
 import App from "./components/layouts/App.vue";
 import Home from "./pages/Home.vue";
@@ -21,15 +33,3 @@ export default {
   },
 };
 </script>
-
-<template>
-  <App>
-    <Home />
-    <About />
-    <Skills />
-    <Services />
-    <Work />
-    <Testimonials />
-    <Contact />
-  </App>
-</template>

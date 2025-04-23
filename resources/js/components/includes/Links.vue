@@ -2,7 +2,7 @@
     <div>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Hailee's Portfolio</title>
+        <title>Diane Fariola</title>
         <!--=============== FAVICON ===============-->
         <link
             rel="apple-touch-icon"
