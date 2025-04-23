@@ -5,7 +5,8 @@
         <h2 class="section__title">About Me</h2>
 
         <div class="about__container container grid">
-            <img src="/cymer/assets/img/about.jpg" alt="" class="about__img" />
+            <!-- <img src="/cymer/assets/img/about.jpg" alt="" class="about__img" /> -->
+            <img src="/cymer/assets/img/diane/diane-about.png" alt="" class="about__img" />
 
             <div class="about__data">
                 <div class="about__info">

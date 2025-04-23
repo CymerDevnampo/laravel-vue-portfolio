@@ -2,7 +2,7 @@
   <!--=============== HEADER ===============-->
   <header class="header" id="header">
     <nav class="nav container">
-      <a href="#" class="nav__logo">Hailee</a>
+      <a href="#" class="nav__logo">Diane</a>
 
       <div class="nav__menu">
         <ul class="nav__list">

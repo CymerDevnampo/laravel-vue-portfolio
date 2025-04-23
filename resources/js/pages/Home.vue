@@ -4,7 +4,7 @@
         <div class="home__container container grid">
             <div class="home__data">
                 <span class="home__greeting">Hello, I'm</span>
-                <h1 class="home__name">Haliee Keys</h1>
+                <h1 class="home__name">Diane Fariola</h1>
                 <h3 class="home__education">Frontend Developer</h3>
 
                 <div class="home__button">
@@ -21,7 +21,8 @@
             </div>
 
             <div class="home__handle">
-                <img src="/cymer/assets/img/perfil.png" alt="" class="home__img" />
+                <!-- <img src="/cymer/assets/img/perfil.png" alt="" class="home__img" /> -->
+                <img src="/cymer/assets/img/diane/diane.png" alt="" class="home__img" />
             </div>
 
             <div class="home__social">

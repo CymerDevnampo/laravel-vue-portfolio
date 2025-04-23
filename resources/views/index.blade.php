@@ -25,7 +25,7 @@
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="{{ asset('/cymer/assets/css/styles.css') }}">
 
-    <title> Cymer Denampo </title>
+    <title> Diane Fariola </title>
 </head>
 
 <body>
